@@ -1,4 +1,5 @@
-Me code and math and physics
-Learning about C, C++, javascript, bash script, and linux
+I code and study math
+
+Primary Languages: Python, Sh, Zsh, Vimscript, Lua, C
 
 [Twitter](https://twitter.com/NeemaVedant)
